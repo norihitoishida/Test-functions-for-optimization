@@ -1,0 +1,11 @@
+###### Requirements without Version Specifiers ######
+jupyter
+jupyterlab
+matplotlib
+numpy
+pandas
+scikit-learn
+scipy
+tqdm 
+
+###### Requirements with Version Specifiers ######
