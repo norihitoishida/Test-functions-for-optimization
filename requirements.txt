@@ -3,9 +3,10 @@ jupyter
 jupyterlab
 matplotlib
 numpy
+optuna
 pandas
 scikit-learn
 scipy
-tqdm 
+tqdm
 
 ###### Requirements with Version Specifiers ######
