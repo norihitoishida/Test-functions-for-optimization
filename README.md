@@ -1,12 +1,9 @@
-# Python implementation and visualization of test functions for optimization.
+Python implementation and visualization of test functions for optimization.
 
-### Difficultiy
+### Optimization Difficulty
+- Hoki and Kaneko (2014) consider Optimization Difficulty in 5 broad Types.
 - [Large-Scale Optimization for Evaluation Functions with Minimax Search (Hoki and Kaneko, 2014)](https://www.jair.org/index.php/jair/article/view/10871)
-    - Single minimum 
-    - Smooth
-    - Non-differentiable
-    - Narrow trough 
-    - Non-continuous
+
 
 ### Optimization type
     - S : Single-objective optimization
