@@ -1,22 +1,20 @@
-**Python implementation and visualization of test functions for optimization.**
+## Py
+Python implementation and visualization of test functions for optimization.
 
 ### Optimization Difficulty
-- Hoki and Kaneko (2014) consider Optimization Difficulty in 5 broad Types.
-- [Large-Scale Optimization for Evaluation Functions with Minimax Search (Hoki and Kaneko, 2014)](https://www.jair.org/index.php/jair/article/view/10871)
+Hoki and Kaneko (2014) consider Optimization Difficulty in 5 broad Types. 
 
 ![optimization-difficulty.png](https://github.com/norihitoishida/test-functions-for-optimization-python/blob/main/images/optimization-difficulty.png)
 
-### Optimization type
-- S : Single-objective optimization
-- M : Multi-objective optimization
-- C : Constrained optimization
+Source: [Large-Scale Optimization for Evaluation Functions with Minimax Search (Hoki and Kaneko, 2014)](https://www.jair.org/index.php/jair/article/view/10871)
 
-|Function|Optimization Difficultiy|Global minimum|Optimization Type
+### Function list
+|Function|Optimization Difficultiy|Global minimum|Optimization Type|
 | --- | --- | --- | --- |
-|Ackley function|Smooth|0|S|
+|Ackley function|Smooth|0|Single-objective|
 
 
-# Useful links
+### Useful links
 - https://en.wikipedia.org/wiki/Test_functions_for_optimization
 - https://www.sfu.ca/~ssurjano/optimization.html
 - https://qiita.com/tomitomi3/items/d4318bf7afbc1c835dda
